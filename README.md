@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Here is Daoping. I am a researcher at University of Cambridge. I am currently working on the following topics:
+
+- 🌐 Developing new theories of economics from a network perspective
+- 🌍 Developing BRIDGE series models that bridge different natural and economic systems
+- 🔄 Modeling the propagation of shocks on economic networks
+- 🤖 Exploring machine learning potential for climate change risk assessment
+- 🏭 Developing methodologies for companies, investors, and insurers to calculate greenhouse gas emissions across value chains
+- ⚡ Developing methodologies for companies, investors, and insurers to assess the climate-related financial risks
+- 💡 Exploring how machine learning can help tackle climate change
+- 🤔 ...
+
 <!--
 **DaopingW/DaopingW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
