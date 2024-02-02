@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-Here is Daoping. I am a Hoffmann Research Fellow at the University of Cambridge. 
+Here is Daoping. I am an assistant professor in Risk, Environment and Society at King's College London. I am also an affiliated researcher at the University of Cambridge and the World Economic Forum.
 
-I work with academics from the Department of Computer Science and Technology and the Judge Business School at the University of Cambridge, to explore the application of AI technologies in climate risk assessment and governance. I am also in collaboration with the Centre for Climate Engagement in Hughes Hall and the World Economic Forum to bring knowledge on global climate governance to policymakers, stakeholders, and the general public.
+I am intrigued by the exploration of how climate risks impact our human societies and am dedicated to developing strategies for enhancing resilience and adapting to climate change. Collaborating with academics worldwide, I am committed to leveraging cutting-edge artificial intelligence techniques and transdisciplinary knowledge (both science and social science) to develop effective solutions to climate risks. Beyond, I collaborate with the Centre for Climate Engagement at the University of Cambridge and the World Economic Forum to disseminate knowledge on global climate governance to policymakers, stakeholders, and the general public.
 
-I am interested in coupled human and natural systems and sustainable systems analysis, including especially: AI and climate risk assessment and governance; the economics of disasters and risk management; analysis of the cost and benefits of adaptation measures; the complex interactions of climate change, human behavior, global economic network; and sustainable development.
+Recently, I have been interested in coupled human and natural systems and sustainable systems analysis, including especially: AI and climate risk assessment and governance; climate risk, infrastructures and economic systems; the economics of disasters and risk management; analysis of the cost and benefits of adaptation measures.
 
 I am currently working on the following topics:
 
 - 🌐 Developing new theories of economics from a network perspective
 - 🌍 Developing BRIDGE series models that bridge different natural and economic systems
 - 🔄 Modeling the propagation of shocks on economic networks
-- 🤖 Exploring machine learning potential for climate change risk assessment
+- 🤖 Exploring application of machine learning techniques for climate change risk assessment
 - 🏭 Developing methodologies for companies, investors, and insurers to calculate GHG emissions across value chains
 - ⚡ Developing methodologies for companies, investors, and insurers to assess the climate-related financial risks
-- 💡 Exploring how machine learning can help tackle climate change
 - 🤔 ...
 
 <!--
